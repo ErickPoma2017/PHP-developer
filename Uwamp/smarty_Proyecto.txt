@@ -1,0 +1,19 @@
+﻿PLANTILLAS CON SMARTY
+
+Instalación
+1.- Crear la carpeta libs dentro de la carpeta uwamp(servidor)
+2.- Pegar la carpeta 'smarty' dentro de la carpeta libs
+3.- Agregar la ruta de la carpeta libs (E:\Users\Alumno\Documents\UwAmp\libs) a la etiqueta include_path (escribirlo en el buscador (ctrl+B hacia el archivo php_uwamp ))en el archivo de configuracion de php: php.ini.(lo encuentras haciando 
+click en el boton de PHP Config en el programa UWamp).
+
+
+//php_uwamp
+
+; Windows: "\path1;\path2"
+;include_path = ".;c:\php\includes" => debajo de este archivo
+include_path = ".;E:\Users\Alumno\Documents\UwAmp\libs" ===> escribe el sgte codigo..
+;
+; PHP's default setting for include_path is ".;/path/to/php/pear"
+; http://php.net/include-path
+
+

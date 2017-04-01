@@ -1,0 +1,11 @@
+Los ejercicios y proyecto realizado en php se encuentra en la siguiente direcccion: \Uwamp\www\Prueba_PHP
+
+Referente al proyecto:
+
+- Se ha creado la base de datos realizado en mysql y se encuentra en la carpeta BD_Proyecto ubicado en la  
+  siguiente direccion: Uwamp\www\Prueba_PHP
+
+- En caso de no puede visualizar el proyecto, lo podra observar en los pantallazos tomados y que se encuentra
+  en la carpeta Imagenes_Proyecto ubicado en la siguiente direccion: Uwamp\www\Prueba_PHP
+
+- EL proyecto se realizó con la plantilla Smarty y bootstrap.
